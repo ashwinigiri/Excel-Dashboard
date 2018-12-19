@@ -6,4 +6,6 @@ Power Pivot and pivot charts are used.
 There are multiple sheets in the file. Each sheet corresponds to pivot table and pivot chart for each visualization.
 The filters are created using slicers.
 
+The dashboard can be changed dynamically by selecting and deselecting the filters.
+
 
